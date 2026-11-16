@@ -4,5 +4,7 @@ coverage/
 .npm-cache/
 playwright-report/
 test-results/
+playwright-report-atividade/
+test-results-atividade/
 e2e-artifacts/
 
